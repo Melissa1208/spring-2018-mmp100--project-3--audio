@@ -8,10 +8,10 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 5. Edit this `README.md` file by adding a link to your project and including a description below.
 
 ### Link
-[http://www.add link to your project here.com]([http://www.add link to your project here.com)
+[http://mmp.bmcc.cuny.edu/melissa.olaya/spring-2018/mmp-100/project-3/](http://mmp.bmcc.cuny.edu/melissa.olaya/spring-2018/mmp-100/project-3/)
 
 ### Description
-Your description goes here.
+It's a early morning waking up with birds singing, cars passing by the streets. Once the kitten woke up it started to cry and the guy was going to give the kitten a treat.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
