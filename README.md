@@ -8,7 +8,7 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 5. Edit this `README.md` file by adding a link to your project and including a description below.
 
 ### Link
-[ftp://gabriel.genao@mmp.bmcc.cuny.edu/Spring-2018/MMP-100/project-3/Project%203/Conformed%20Files]([http://www.add link to your project here.com)
+[ftp://mmp.bmcc.cuny.edu/Spring-2018/MMP-100/project-3/Project%203/Conformed%20Files/Chii-Channel.mp3]([http://www.add link to your project here.com)
 
 ### Description
 This is a commercial for a new program in a radio call Chii Channel.
